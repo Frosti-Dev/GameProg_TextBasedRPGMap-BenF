@@ -1,0 +1,7 @@
+C:\school\programming code\GameProg_TextBasedRPGMap-BenF\GameProg_TextBasedRPGMap-BenF\bin\Debug\GameProg_TextBasedRPGMap-BenF.exe.config
+C:\school\programming code\GameProg_TextBasedRPGMap-BenF\GameProg_TextBasedRPGMap-BenF\bin\Debug\GameProg_TextBasedRPGMap-BenF.exe
+C:\school\programming code\GameProg_TextBasedRPGMap-BenF\GameProg_TextBasedRPGMap-BenF\bin\Debug\GameProg_TextBasedRPGMap-BenF.pdb
+C:\school\programming code\GameProg_TextBasedRPGMap-BenF\GameProg_TextBasedRPGMap-BenF\obj\Debug\GameProg_TextBasedRPGMap-BenF.csproj.AssemblyReference.cache
+C:\school\programming code\GameProg_TextBasedRPGMap-BenF\GameProg_TextBasedRPGMap-BenF\obj\Debug\GameProg_TextBasedRPGMap-BenF.csproj.CoreCompileInputs.cache
+C:\school\programming code\GameProg_TextBasedRPGMap-BenF\GameProg_TextBasedRPGMap-BenF\obj\Debug\GameProg_TextBasedRPGMap-BenF.exe
+C:\school\programming code\GameProg_TextBasedRPGMap-BenF\GameProg_TextBasedRPGMap-BenF\obj\Debug\GameProg_TextBasedRPGMap-BenF.pdb
